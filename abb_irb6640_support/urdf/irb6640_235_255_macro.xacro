@@ -5,12 +5,12 @@
     <link name="${prefix}base_link">
       <collision name="collision">
         <geometry>
-          <mesh filename="package://abb_irb6640_support/meshes/irb6640_235_255/collision/base_link.stl"/>
+          <mesh filename="package://abb_irb6640_support/meshes/irb6640/collision/base_link.stl"/>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
-          <mesh filename="package://abb_irb6640_support/meshes/irb6640_235_255/visual/base_link.dae"/>
+          <mesh filename="package://abb_irb6640_support/meshes/irb6640/visual/base_link.dae"/>
         </geometry>
         <material name="yellow">
           <color rgba="1 1 0 1"/>
@@ -20,12 +20,12 @@
     <link name="${prefix}link_1">
       <collision name="collision">
         <geometry>
-          <mesh filename="package://abb_irb6640_support/meshes/irb6640_235_255/collision/link_1.stl"/>
+          <mesh filename="package://abb_irb6640_support/meshes/irb6640/collision/link_1.stl"/>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
-          <mesh filename="package://abb_irb6640_support/meshes/irb6640_235_255/visual/link_1.dae"/>
+          <mesh filename="package://abb_irb6640_support/meshes/irb6640/visual/link_1.dae"/>
         </geometry>
         <material name="yellow"/>
       </visual>
@@ -33,12 +33,12 @@
     <link name="${prefix}link_2">
       <collision name="collision">
         <geometry>
-          <mesh filename="package://abb_irb6640_support/meshes/irb6640_235_255/collision/link_2.stl"/>
+          <mesh filename="package://abb_irb6640_support/meshes/irb6640/collision/link_2.stl"/>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
-          <mesh filename="package://abb_irb6640_support/meshes/irb6640_235_255/visual/link_2.dae"/>
+          <mesh filename="package://abb_irb6640_support/meshes/irb6640/visual/link_2.dae"/>
         </geometry>
         <material name="yellow"/>
       </visual>
@@ -46,12 +46,12 @@
     <link name="${prefix}link_3">
       <collision name="collision">
         <geometry>
-          <mesh filename="package://abb_irb6640_support/meshes/irb6640_235_255/collision/link_3.stl"/>
+          <mesh filename="package://abb_irb6640_support/meshes/irb6640/collision/link_3.stl"/>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
-          <mesh filename="package://abb_irb6640_support/meshes/irb6640_235_255/visual/link_3.dae"/>
+          <mesh filename="package://abb_irb6640_support/meshes/irb6640/visual/link_3.dae"/>
         </geometry>
         <material name="yellow"/>
       </visual>
@@ -72,12 +72,12 @@
     <link name="${prefix}link_5">
       <collision name="collision">
         <geometry>
-          <mesh filename="package://abb_irb6640_support/meshes/irb6640_235_255/collision/link_5.stl"/>
+          <mesh filename="package://abb_irb6640_support/meshes/irb6640/collision/link_5.stl"/>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
-          <mesh filename="package://abb_irb6640_support/meshes/irb6640_235_255/visual/link_5.dae"/>
+          <mesh filename="package://abb_irb6640_support/meshes/irb6640/visual/link_5.dae"/>
         </geometry>
         <material name="yellow"/>
       </visual>
@@ -85,12 +85,12 @@
     <link name="${prefix}link_6">
       <collision name="collision">
         <geometry>
-          <mesh filename="package://abb_irb6640_support/meshes/irb6640_235_255/collision/link_6.stl"/>
+          <mesh filename="package://abb_irb6640_support/meshes/irb6640/collision/link_6.stl"/>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
-          <mesh filename="package://abb_irb6640_support/meshes/irb6640_235_255/visual/link_6.dae"/>
+          <mesh filename="package://abb_irb6640_support/meshes/irb6640/visual/link_6.dae"/>
         </geometry>
         <material name="yellow"/>
       </visual>
@@ -101,12 +101,12 @@
     <link name="${prefix}link_cylinder">
       <collision name="collision">
         <geometry>
-          <mesh filename="package://abb_irb6640_support/meshes/irb6640_235_255/collision/cylinder_link.stl"/>
+          <mesh filename="package://abb_irb6640_support/meshes/irb6640/collision/cylinder_link.stl"/>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
-          <mesh filename="package://abb_irb6640_support/meshes/irb6640_235_255/visual/cylinder_link.dae"/>
+          <mesh filename="package://abb_irb6640_support/meshes/irb6640/visual/cylinder_link.dae"/>
         </geometry>
         <material name="yellow"/>
       </visual>
@@ -114,12 +114,12 @@
     <link name="${prefix}link_piston">
       <collision name="collision">
         <geometry>
-          <mesh filename="package://abb_irb6640_support/meshes/irb6640_235_255/collision/piston_link.stl"/>
+          <mesh filename="package://abb_irb6640_support/meshes/irb6640/collision/piston_link.stl"/>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
-          <mesh filename="package://abb_irb6640_support/meshes/irb6640_235_255/visual/piston_link.dae"/>
+          <mesh filename="package://abb_irb6640_support/meshes/irb6640/visual/piston_link.dae"/>
         </geometry>
         <material name="yellow"/>
       </visual>
